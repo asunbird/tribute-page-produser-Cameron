@@ -58,12 +58,14 @@ img {
   display: block;
   height: auto;
   margin: 0 auto;
+ 
 }
 
 #img-div {
   background: white;
   padding: 10px;
   margin: 0;
+  align-items: center;
 }
 
 #img-caption {
@@ -97,4 +99,9 @@ blockquote {
   max-width: 545px;
   margin: 0 auto 50px auto;
   text-align: left;
+}
+
+#image {
+  max-width: 460px;
+  
 }
